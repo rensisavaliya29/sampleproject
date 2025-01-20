@@ -74,7 +74,6 @@
     <Content Include="connectionDB.aspx" />
     <Content Include="diif_styles.aspx" />
     <Content Include="electronics.aspx" />
-    <Content Include="HtmlPage1.html" />
     <Content Include="pageload.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
